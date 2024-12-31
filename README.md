@@ -1,4 +1,4 @@
-# Bank-Marketing-Prediction-
+
 # Bank Marketing Subscription Prediction
 
 This repository contains the implementation and analysis of a machine learning project aimed at predicting whether a customer will subscribe to a term deposit based on the *Bank Marketing Dataset*. The dataset, obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing), provides information about past marketing campaigns.
